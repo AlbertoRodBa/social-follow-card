@@ -39,8 +39,10 @@
 }
 
 
-
-
+h1 {
+  color: #00bfff; /* celeste */
+  font-family: 'Montserrat', sans-serif; 
+}
 
 @keyframes App-logo-spin {
   from {
